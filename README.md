@@ -13,6 +13,8 @@ The purpose of this assignment is to read two external .csv files and complete d
 **After the merge**
 ![image](https://user-images.githubusercontent.com/36682023/202631240-2539c104-2296-4993-85c0-9978b5aa72cb.png)
 
+During the course of this assignment I found different wants to engage with the data, frame it, summaize it, and manipualte it.  I believe I could do a more effecient job were I do the assignment over again.  I did some calculations mutliple times when it was likely not necessary and could have used the school_summary dataframe more effectively to solve later data inqueries. 
+
 # District Summary Results
 ![image](https://user-images.githubusercontent.com/36682023/202632092-ac4cc232-fe90-467c-ad76-3a768db3699b.png)
 
@@ -36,6 +38,8 @@ The purpose of this assignment is to read two external .csv files and complete d
 
 # Scores by School Size Results
 ![image](https://user-images.githubusercontent.com/36682023/202632311-a16a36c2-26eb-4c66-af53-d18a8d190065.png)
+
+I was a bit stumped by the ask on this last sell as it seems grouping the school_summary_df by type and calculating mean gave the answet and the intermediary steps were not necessary, perhaps I am missing something.  My results matches though.  
 
 # Scores by School Type Results
 ![image](https://user-images.githubusercontent.com/36682023/202632333-d09208d8-7fde-4441-a192-26fccf3927c6.png)
