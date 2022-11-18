@@ -13,28 +13,29 @@ The purpose of this assignment is to read two external .csv files and complete d
 **After the merge**
 ![image](https://user-images.githubusercontent.com/36682023/202631240-2539c104-2296-4993-85c0-9978b5aa72cb.png)
 
+# District Summary Results
+![image](https://user-images.githubusercontent.com/36682023/202632092-ac4cc232-fe90-467c-ad76-3a768db3699b.png)
 
+# School Summary Results
+![image](https://user-images.githubusercontent.com/36682023/202632143-d9eaa514-3620-44cd-9b43-4bdfe2abd9be.png)
 
+# Top Performing Schools (By % Overall Passing) Results
+![image](https://user-images.githubusercontent.com/36682023/202632173-2fba13f7-b5d7-4c02-a9a3-3d5c1fea6289.png)
 
-**PyBank Results Screenshot**
+# Bottom Performing Schools (By % Overall Passing) Results
+![image](https://user-images.githubusercontent.com/36682023/202632213-b911c642-e529-4451-958f-ff9507e83966.png)
 
-![image](https://user-images.githubusercontent.com/36682023/200943430-01eed6cb-30b1-4eec-8e66-1ec45e7bd276.png)
+# Math Scores by Grade Results
+![image](https://user-images.githubusercontent.com/36682023/202632239-63e2a444-c855-4c67-8b08-aee67fb12f03.png)
 
-# PyPull
+# Reading Score by Grade Results
+![image](https://user-images.githubusercontent.com/36682023/202632263-d0c940bb-4702-4fbe-a329-e9ac3a8e4112.png)
 
-The purpose of this assignment is to read in an external CSV file, Loop through each row, and produce polling results that are outputted to both the termainal and into a text file. 
+# Scores by School Spending Results
+![image](https://user-images.githubusercontent.com/36682023/202632293-1bb3c75d-998c-4133-ac83-dd8b10710331.png)
 
-Using a dictionary to store a key pair that tracks unique political contender and their respective vote count seems like an elegant and effecient solution to me. 
+# Scores by School Size Results
+![image](https://user-images.githubusercontent.com/36682023/202632311-a16a36c2-26eb-4c66-af53-d18a8d190065.png)
 
-```python
-#Use dictionary to tally votes per candidate as we loop through  
-#check if candidate is in dictionary.  If not add new dict key, if present increment their vote count
-if row[2] not in vote_results.keys():
-  vote_results[row[2]] = 1
-else:
-  vote_results[row[2]] += 1
-```
-
-**PyPull Results Screenshot**
-
-![image](https://user-images.githubusercontent.com/36682023/200943598-c12c34c6-648b-4ed8-b222-1ccaeee84321.png)
+# Scores by School Type Results
+![image](https://user-images.githubusercontent.com/36682023/202632333-d09208d8-7fde-4441-a192-26fccf3927c6.png)
